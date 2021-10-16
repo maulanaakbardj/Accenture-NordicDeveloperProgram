@@ -11,3 +11,6 @@ A Great learning experience with a Great program. It was great Virtual experienc
 * Securing the software development lifecycle (SDLC)
 * Shaping the Problem
 * Data and privacy
+
+![image](https://user-images.githubusercontent.com/67249292/137585560-444e3df7-f05c-4de4-8850-854d7beb1881.png)
+
